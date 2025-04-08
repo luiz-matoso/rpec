@@ -1,7 +1,6 @@
-<h2>📘 Explicação do Código - Pilha com Lista Encadeada em Java</h2>
+<h2>📘 Exercício 1</h2>
 
-<p>Este programa implementa uma <strong>pilha</strong> usando <strong>lista encadeada</strong> em Java. A pilha segue o princípio <strong>LIFO</strong> (Last In, First Out), onde o último elemento inserido é o primeiro a ser removido.</p>
-
+<p>Este programa implementa uma <strong>pilha</strong> usando <strong>lista encadeada</strong> em Java.
 <h3>📦 Estrutura do Código</h3>
 
 <h4>1. Classe <code>No</code></h4>
